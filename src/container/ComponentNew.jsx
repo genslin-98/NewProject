@@ -3,7 +3,7 @@ import React from 'react'
 const ComponentNew = () => {
   return (
     <div>
-      hellow all!
+      hello all! 
     </div>
   )
 }
